@@ -1,2 +1,2 @@
-# xianhegithub.github.io
+# Xianhe's Blog
 technical notes
